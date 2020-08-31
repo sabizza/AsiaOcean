@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Russaia-Generals-TV" tvg-logo="" group-title="Russaia-Generals-TV",•●●●★===== Russaia-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,12 BonusSport TV
+https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astrakhan24 TV
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+#EXTINF:-1,Kprf TV
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1,Opck TV
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1,Russia01 HD TV
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Russia01 Chita TV
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_576p.m3u8?streamType=live
+#EXTINF:-1,Russia24 TV
+http://chgtrk.ru/pl/stream/hls/R24_720p/index.m3u8
+#EXTINF:-1,TV7 TV
+http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
+#EXTINF:-1,Kaledoskop TV
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,Uspeh HDTV
+http://strm.yandex.ru/kal/uspehtv_supres/uspehtv_supres0_1511_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Belarus-Generals-TV" tvg-logo="" group-title="Belarus-Generals-TV",•●●●★===== Belarus-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,T24 TV
+http://178.124.183.4:80/hls/ZIVFRAFR2I/variant.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ukrania-Generals-TV" tvg-logo="" group-title="Ukrania-Generals-TV",•●●●★===== Ukrania-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,A01 TV
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,Api24 TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1,K01 TV
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,Reporter TV
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Georgia-Generals-TV" tvg-logo="" group-title="Georgia-Generals-TV",•●●●★===== Georgia-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,1TV
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1,Imedi HD TV
+https://imedi-tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Azerbidjan-Generals-TV" tvg-logo="" group-title="Azerbidjan-Generals-TV",•●●●★===== Azerbidjan-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,ARB TV
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1,ARB24 TV
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1,ARBkepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,ARTN TV
+http://livestream.usatv.com/hls/master-ARTN-NET.m3u8
+#EXTINF:-1,ATV AZ TV
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1,ATV AZ-2 TV
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1,ATV AZ-4 TV
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1,Inter Az TV
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kasakhistan-Generals-TV" tvg-logo="" group-title="Kasakhistan-Generals-TV",•●●●★===== Kasakhistan-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,KTK TV
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,Mir TV-3
+http://sc.id-tv.kz/Mir_36_37.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Uzbakistan-Generals-TV" tvg-logo="" group-title="Uzbakistan-Generals-TV",•●●●★===== Uzbakistan-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,Azon TV (UZ)
+https://tv2.azon.uz/med/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Korea-Generals-TV" tvg-logo="" group-title="Korea-Generals-TV",•●●●★===== Korea-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,Arirang HD TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,CBS TV
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1,CBS HDTV
+http://121.149.122.138:9981/stream/channelid/66?ticket=F2F8903484BE2597F5E89F162A78F02C6C3E3C43
+#EXTINF:-1,CJO Shopping TV
+http://121.149.122.138:9981/stream/channelid/13?ticket=A4F0E1E2C2203850F01A562E44B86A357A6167BE
+#EXTINF:-1,CMC HDTV
+http://121.149.122.138:9981/stream/channelid/27?ticket=17832EDCFDB2CFF7B1346F64E370A6E2847A05A3
+#EXTINF:-1,CNTV
+http://121.149.122.138:9981/stream/channelid/34?ticket=0C6CC242FD87647413C93235284E53DAAF03CB3C
+#EXTINF:-1,Chosun TV
+http://live.chosun.gscdn.com/live/tvchosun4.stream/.m3u8
+#EXTINF:-1,EBS1 TV
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS2 TV
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS2 TV
+http://222.239.21.155/ebs2familypc/_definst_/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Eng TV
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="India-Generals-TV" tvg-logo="" group-title="India-Generals-TV",•●●●★===== India-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,ET Now TV
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8
+#EXTINF:-1,Jaffna HD TV
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+#EXTINF:-1,G Bunjabi TV
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1,Oppna Kanalen 
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1,SonyMix HD TV
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="China-Generals-TV" tvg-logo="" group-title="China-Generals-TV",•●●●★===== China-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,CCTV 1
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1,CCTV 2
+http://eshare.live.otvcloud.com/otv/nyz/live/channel13/index.m3u8
+#EXTINF:-1,CCTV 4
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1,CCTV 5
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1,CCTV 8
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1,CCTV 13
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1,CGTN Eng TV
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1,CGTN Eng TV
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,CGTN Esp TV
+http://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,CGTN Fra TV
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1,Chinasun TV
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1,CTI HD TV
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1,Good TV HD
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1,Huya TV
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Pat TV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1,Massp TV
+http://live.massp.cn:5011/vod/video_hls/c02.m3u8
+#EXTINF:-1,TV01 China TV
+http://jxsg.chinashadt.com:1936/live/TV1.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Indonisia-Generals-TV" tvg-logo="" group-title="Indonisia-Generals-TV",•●●●★===== Indonisia-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,Ahsan HD TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:-1,Global TV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1,Global+ TV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1,RCTI TV
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,RCTI+ TV
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1,MNC TV
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1,MNC+
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1,Indonesia TV
+http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Indosiar TV
+http://202.80.222.20:80/cdn/iptv/Tvod/001/channel2000062/1024.m3u8
+#EXTINF:-1,SC TV
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,AN TV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1,Karaoke TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8?rizkizakaria-Karaoke-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-ID="" tvg-name="Malisya-Generals-TV" tvg-logo="" group-title="Malisya-Generals-TV",•●●●★===== Malisya-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,RTM1 HD TV
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+#EXTINF:-1,RTM2 HD TV
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Brunie-Generals-TV" tvg-logo="" group-title="Brunie-Generals-TV",•●●●★===== Brunie-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,RTB Sukmaindera hdTV
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Thailand-Generals-TV" tvg-logo="" group-title="Thailand-Generals-TV",•●●●★===== Thailand-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,True4U
+http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
+#EXTINF:-1,ThaiPbs hdTV
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1, CH3 HD
+http://27.254.130.64/live01/ch0.m3u8?p=st
+#EXTINF:-1, CH5 HD
+http://27.254.130.64/live01/ch6.m3u8?p=st
+#EXTINF:-1, CH7 HD
+http://27.254.130.64/live01/ch1.m3u8?p=st
+#EXTINF:-1, MCOT HD
+http://27.254.130.64/live02/ch7.m3u8?p=st
+#EXTINF:-1, ThaiPBS
+http://27.254.130.64/live02/ch0.m3u8?p=st
+#EXTINF:-1, AmarinTV
+http://27.254.130.64/live01/ch13.m3u8?p=st
+#EXTINF:-1, ThairathTV
+http://27.254.130.64/live01/ch9.m3u8?p=st
+#EXTINF:-1, PPTV HD
+http://27.254.130.64/live01/ch2.m3u8?p=st
+#EXTINF:-1, WorkpointTV
+http://27.254.130.64/live01/ch7.m3u8?p=st
+#EXTINF:-1, One HD
+http://27.254.130.64/live01/ch10.m3u8?p=st
+#EXTINF:-1, Mono29
+http://27.254.130.64/live01/ch3.m3u8?p=st
+#EXTINF:-1, CH3 SD
+http://27.254.130.64/live02/ch3.m3u8?p=st
+#EXTINF:-1, M Channel
+http://27.254.130.64/live01/ch19.m3u8?p=st
+#EXTINF:-1, CH8
+http://27.254.130.64/live02/ch2.m3u8?p=st
+#EXTINF:-1, CH2
+http://27.254.130.64/live01/ch15.m3u8?p=st
+#EXTINF:-1, CH3 Family
+http://27.254.130.64/live02/ch1.m3u8?p=st
+#EXTINF:-1, Gang Cartoon
+http://27.254.130.64/live01/ch17.m3u8?p=st
+#EXTINF:-1, Cartoon Club
+http://27.254.130.64/live01/ch16.m3u8?p=st
+#EXTINF:-1, GMM25
+http://27.254.130.64/live01/ch11.m3u8?p=st
+#EXTINF:-1, NationTV
+http://27.254.130.64/live01/ch8.m3u8?p=st
+#EXTINF:-1, NOW26
+http://27.254.130.64/live01/ch12.m3u8?p=st
+#EXTINF:-1, VoiceTV
+http://27.254.130.64/live02/ch6.m3u8?p=st
+#EXTINF:-1, Spring News
+http://27.254.130.64/live02/ch5.m3u8?p=st
+#EXTINF:-1, Bright TV
+http://27.254.130.64/live99/47/brighttv.m3u8?p=st
+#EXTINF:-1, NBT
+http://27.254.130.64/live01/ch14.m3u8?p=st
+#EXTINF:-1, TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=st
+#EXTINF:-1, True4U
+http://27.254.130.64/live01/ch4.m3u8?p=st
+#EXTINF:-1, New)TV
+http://27.254.130.64/live99/47/newtv.m3u8?p=ste
+#EXTINF:-1, MCOT Family
+http://27.254.130.64/live02/ch4.m3u8?p=st
+#EXTINF:-1, TPTV
+http://27.254.130.64/live99/47/tptv.m3u8?p=st
+#EXTINF:-1, Z Nang
+http://27.254.130.64/live99/46/zeenung.m3u8?p=st
+#EXTINF:-1, CAT Channel
+http://cdnlive.goprimetime.info/live99/47/cat.m3u8?p=st
+#EXTINF:-1, YOU Channel
+http://27.254.130.64/live99/46/youchannel.m3u8?p=st
+#EXTINF:-1, Money Channel
+http://27.254.130.64/live99/46/money.m3u8?p=st
+#EXTINF:-1, Arirang News
+http://27.254.130.64/live03/ch0.m3u8?p=st
+#EXTINF:-1, Thai CCTV
+http://27.254.130.64/live99/46/tcctv.m3u8?p=st
+#EXTINF:-1, Aljazeera
+http://27.254.130.64/live03/ch2.m3u8?p=st
+#EXTINF:-1, NHK World
+http://27.254.130.64/live03/ch1.m3u8?p=st
+#EXTINF:-1,CH02 Tai tv
+https://gtrlive.intersteam-idc.com/livestream/ch2/chunks.m3u8
+#EXTINF:-1,CH07 Tai tv
+http://27.254.130.64/live01///////////ch1.m3u8?p=?
+#EXTINF:-1 tvg-ID="" tvg-name="Veitnam-Generals-TV" tvg-logo="" group-title="Veitnam-Generals-TV",•●●●★===== Veitnam-Generals-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,Ant TV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1,Da Nang TV1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1,HY TV HD
+http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
+#EXTINF:-1,OVM 4 TV
+http://saigontv.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ausralia-General-TV" tvg-logo="" group-title="Ausralia-General-TV",•●●●★===== Ausralia-General-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,AM Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1,AM Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1,CYC TV
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
+#EXTINF:-1,MacquarieSportsRadio
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Newzeland-General-TV" tvg-logo="" group-title="Newzeland-General-TV",•●●●★===== Newzeland-General-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,Maori HDTV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master.m3u8
+#EXTINF:-1,Three TV
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1,TVSN TV
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
